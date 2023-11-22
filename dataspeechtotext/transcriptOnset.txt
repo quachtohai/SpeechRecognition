@@ -1,0 +1,348 @@
+FPTOpenSpeechData_Set001_V0.1_000024.wav|anh có thích tôi giữ trước quyển sách này cho anh không|0.0153138-3.07298
+FPTOpenSpeechData_Set001_V0.1_000045.wav|cô ta nghi ngờ lúc mình say rượu đã bị toán cưỡng bức|0.161917-4.70498
+FPTOpenSpeechData_Set001_V0.1_000144.wav|có nên ưu tiên cho các hoạt động bí mật|0.327652-2.23298
+FPTOpenSpeechData_Set001_V0.1_000146.wav|-N lỗ mũi hẹp -N có tài kiếm tiền|0.926181-4.58498
+FPTOpenSpeechData_Set001_V0.1_000168.wav|phờ phạc sau hành trình dài|0.314845-1.92098
+FPTOpenSpeechData_Set001_V0.1_000220.wav|đâu là nền tảng sinh học của ý thức|0.236784-2.13698
+FPTOpenSpeechData_Set001_V0.1_000233.wav|trẻ em ở các trường học được cung cấp nước sạch để uống|0.829804-3.26498
+FPTOpenSpeechData_Set001_V0.1_000237.wav|một dãy các tủ lạnh xếp dọc theo căn phòng|0.276386-2.52098
+FPTOpenSpeechData_Set001_V0.1_000282.wav|hàng nghìn người trung á rời quê hương đến nga kiếm việc|0.272683-3.88898
+FPTOpenSpeechData_Set001_V0.1_000311.wav|thu hoạch và bảo quản lúa là khâu cuối cùng trong một mùa vụ |0.343021-4.72898
+FPTOpenSpeechData_Set001_V0.1_000425.wav|người mẫu phải tập tành trình diễn quần quật -N đến tận khuya|0.999806-7.08098
+FPTOpenSpeechData_Set001_V0.1_000500.wav|toàn bộ quy trình điện toán hóa thư viện do công ty Lạc Việt giúp nghiên cứu thiết kế|2.37349-8.20898
+FPTOpenSpeechData_Set001_V0.1_000660.wav|thế nhưng đối với vượng thì khác chỉ vài tiếng huýt sáo hắn đã thu phục được cả hai chú chó rồi vào nhà khua|0.00104701-10.7595
+FPTOpenSpeechData_Set001_V0.1_000717.wav|khi đối tác đầu tư tiền bạc thì mình phải đầu tư công sức|1.89869-7.12898
+FPTOpenSpeechData_Set001_V0.1_000867.wav|là người hay tò mò ưa khám phá sáng tạo tâm hồn cởi mở họ thích lắng nghe và cho mọi người lời khuyên|1.16002-8.95298
+FPTOpenSpeechData_Set001_V0.1_001011.wav|năm nay Tứ Sơn đang ấp ủ kế hoạch đưa gạo Tam Giang , Thất Sơn , Núi Sam mang thêm qua nước Mỹ|3.91345-6.45698
+FPTOpenSpeechData_Set001_V0.1_001031.wav|chủ một cửa hàng trang trí nội thất trên đường Nguyễn Bỉnh Khiêm cho biết mùa nóng là mùa của mặt hàng quả cầu hút nhiệt tôn pu và sơn chống nóng|0.566881-7.82498
+FPTOpenSpeechData_Set001_V0.1_001047.wav|vội hít hà bóc gỡ cho vào mồm nhai ngấu nghiến|1.42371-5.85698
+FPTOpenSpeechData_Set001_V0.1_001109.wav|còn thầy cô lại tưởng rằng nó cố ý không nghe giảng|0.315573-2.95298
+FPTOpenSpeechData_Set001_V0.1_001146.wav|theo lời kể của người này trong một lần hai vợ chồng đùa giỡn|0.812724-4.68098
+FPTOpenSpeechData_Set001_V0.1_001202.wav|tôi cũng nhớ những điều mà người hàn nói với tôi |0.538094-3.14498
+FPTOpenSpeechData_Set001_V0.1_001209.wav|đơm đặt nói dối nhau|0.315533-1.68098
+FPTOpenSpeechData_Set001_V0.1_001233.wav|các nhà nghiên cứu đang tìm cách tạo ra loại vải ướp ít hương thơm vĩnh viễn|0.292843-4.89698
+FPTOpenSpeechData_Set001_V0.1_001350.wav|hội nghị bộ trưởng các nước á phi đã kết thúc hôm qua sau hai ngày làm việc|0.982234-6.45698
+FPTOpenSpeechData_Set001_V0.1_001357.wav|hai vợ chồng thu mình vào góc chuồng khỉ mẹ ấp chặt khỉ con vào lòng để che mưa|0.317358-4.51298
+FPTOpenSpeechData_Set001_V0.1_001433.wav|giải pháp xử lý úng ngập trong thành phố|0.719607-3.88898
+FPTOpenSpeechData_Set001_V0.1_001438.wav|nguồn nước ở đây đã bị nhiễm mặn nhiễm phèn và nhiễm khuẩn bởi thói quen sả rác trực tiếp ra sông lượng thuốc trừ sâu dùng trong nông nghiệp và việc xây cầu cảng ở cuối dòng sông cũng là lý do|0.0220698-10.6229
+FPTOpenSpeechData_Set001_V0.1_001441.wav|một ông chồng ở |0.348309-1.63298
+FPTOpenSpeechData_Set001_V0.1_001481.wav|tôi đang tìm một món quà cho chồng|0.000524346-3.04006
+FPTOpenSpeechData_Set001_V0.1_001617.wav|gần đó là một quyển sách học trò rách tươm|0.310676-2.73698
+FPTOpenSpeechData_Set001_V0.1_001642.wav|tôi có thể mua ba sản phẩm cùng loại với cái này không|2.55858-9.02498
+FPTOpenSpeechData_Set001_V0.1_001652.wav|biết không thể rẽ anh khanh gấp tấp xe vào lề đường|0.260338-7.96898
+FPTOpenSpeechData_Set001_V0.1_001698.wav|những người bị thương kêu khóc yêu cầu giúp đỡ|0.288015-2.08898
+FPTOpenSpeechData_Set001_V0.1_001735.wav|ông lưu sùng nghi|1.95147-3.43298
+FPTOpenSpeechData_Set001_V0.1_001736.wav|anh cất hành lý này cho tôi được không|0.000829859-2.10102
+FPTOpenSpeechData_Set001_V0.1_001829.wav|chùm ảnh về cảnh người dân phải ăn cỏ ở Afghanistan |0.279696-4.00898
+FPTOpenSpeechData_Set001_V0.1_001912.wav|nhờ tấm lợp siêu nhẹ này có khả năng để lọt ánh sáng nên ban ngày -N đèn|0.559626-5.88098
+FPTOpenSpeechData_Set001_V0.1_001933.wav|không hề có một định nghĩa rõ ràng cho khái niệm này|0.318849-2.80898
+FPTOpenSpeechData_Set001_V0.1_002051.wav|sau một thời gian ông quen với mùi thuốc nổ ấy|0.326802-2.44898
+FPTOpenSpeechData_Set001_V0.1_002071.wav|với cách nửa kín nửa hở như vậy đường dây này đã mua bán trót lọt lượng lớn ma túy|0.515801-6.33698
+FPTOpenSpeechData_Set001_V0.1_002244.wav|nga dọa chĩa tên lửa vào châu âu|0.624539-2.61698
+FPTOpenSpeechData_Set001_V0.1_002252.wav|một chú ếch xanh|0.310862-1.32098
+FPTOpenSpeechData_Set001_V0.1_002353.wav|hơi khó ăn|0.489174-1.27298
+FPTOpenSpeechData_Set001_V0.1_002398.wav|trong danh sách đề cử có những bạn trẻ khâm phục nhờ ý chí tuyệt vời|0.876802-4.75298
+FPTOpenSpeechData_Set001_V0.1_002456.wav|được sân bay được phủ bởi hệ thống đường ray tàu điện ngầm|0.0561459-4.22498
+FPTOpenSpeechData_Set001_V0.1_002500.wav|từ kết quả nghiên cứu này ông minh và các đồng sự|0.00133434-3.46362
+FPTOpenSpeechData_Set001_V0.1_002520.wav|người ăn dù ăn xì xụp húp nước hay hối hả -N vẽ cá đều gật gù lia lịa|2.32897-9.62498
+FPTOpenSpeechData_Set001_V0.1_002536.wav|khi vừa gặp anh tâm dịu vung cây gỗ đánh|0.725837-3.50498
+FPTOpenSpeechData_Set001_V0.1_002611.wav|giống như một ông chồng điển hình đầu không nghe thấy gì khi bà vợ -N móc|1.00295-5.64098
+FPTOpenSpeechData_Set001_V0.1_002624.wav|cô cũng chẳng ưa mùi kim chi|0.449228-2.11298
+FPTOpenSpeechData_Set001_V0.1_002664.wav|mặc dù độc tài Park được nhiều người hàn quốc yêu mến|0.799919-4.24898
+FPTOpenSpeechData_Set001_V0.1_002707.wav|ông lặng lẽ gạt nước mắt -N người em bạc mệnh|0.689181-3.91298
+FPTOpenSpeechData_Set001_V0.1_002723.wav|săn hàng thời trang mùa giảm giá|0.960595-3.57698
+FPTOpenSpeechData_Set001_V0.1_002726.wav|họ đốt nến -N và nghe tiếng chuông vang -N|0.763512-6.26498
+FPTOpenSpeechData_Set001_V0.1_002741.wav|không cần quảng cáo rùm beng ngay lập tức chiếc máy bơm nước của ông được người dân đồng hợp biết đến|0.495324-6.57698
+FPTOpenSpeechData_Set001_V0.1_002749.wav|xe khựng lại|0.450443-1.39298
+FPTOpenSpeechData_Set001_V0.1_002828.wav|làn da lý tưởng nhất ở bé là luôn được hồng hào|1.72416-5.52098
+FPTOpenSpeechData_Set001_V0.1_002875.wav|điều này thực hư thế nào thưa ông|0.172139-2.84969
+FPTOpenSpeechData_Set001_V0.1_002933.wav|thôi thì im lặng là vàng ông ngậm bồ hòn làm ngọt để vợ xuôi cơn giận |0.499596-4.82498
+FPTOpenSpeechData_Set001_V0.1_002941.wav|-N tôi chưa -N có -N con -N|0.0119858-1.53568
+FPTOpenSpeechData_Set001_V0.1_002992.wav|các kỹ sư đã thử nghiệm dạng vũ khí đặc biệt này trên không loại vũ khí có thể bắn từ một điểm gắn trên -N mũi chiếc đĩa bay bảy trăm bốn mươi bảy chuyên dụng và nhằm mục tiêu giả định|0.0357858-10.3349
+FPTOpenSpeechData_Set001_V0.1_002995.wav|tất cả những gì nước mỹ làm chỉ đơn thuần là vì muốn sở hữu những nguồn tài nguyên quý giá của quốc gia đó|0.000113446-5.35984
+FPTOpenSpeechData_Set001_V0.1_003005.wav|vé phụ hết bao nhiêu tiền|0.568364-2.16098
+FPTOpenSpeechData_Set001_V0.1_003178.wav|phần i phát hiện đầu tiên|0.327306-1.94498
+FPTOpenSpeechData_Set001_V0.1_003238.wav|dù cô gái bị bắt cóc có ý bảo vệ cho kẻ đã cầm giữ |0.567034-3.69698
+FPTOpenSpeechData_Set001_V0.1_003239.wav|tên hoan lại cầm rựa rượt đuổi và chém tiếp từ trên bổ xuống anh sửu|0.689408-6.38498
+FPTOpenSpeechData_Set001_V0.1_003367.wav|do còn lượng nước trong cồn nhiều hơn nên động cơ ít bị nóng hơn|1.12952-5.63314
+FPTOpenSpeechData_Set001_V0.1_003522.wav|anh ấy cần người hướng dẫn cho mục đích đó , vì mọi thứ đều mới đối với anh ấy|0.00241915-4.36898
+FPTOpenSpeechData_Set001_V0.1_003565.wav|một khi phát hiện làn da đang lâm vào tình trạng mất nước bạn phải làm sao|1.06767-6.64898
+FPTOpenSpeechData_Set001_V0.1_003576.wav|hàng chục nghìn người đã chết chưa kể những hậu quả nặng nề mà nhiều thế hệ |0.268414-3.81698
+FPTOpenSpeechData_Set001_V0.1_003591.wav|khán giả sẽ choáng ngợp với những trận đấu cả về trí lẫn dũng trong phần hai|0.950501-6.26498
+FPTOpenSpeechData_Set001_V0.1_003646.wav|trong quá khứ phù thủy được coi là người sở hữu những phép thuật|0.950523-4.24898
+FPTOpenSpeechData_Set001_V0.1_003673.wav|kênh một|0.00823511-0.712748
+FPTOpenSpeechData_Set001_V0.1_003681.wav|ma túy tổng hợp ảnh minh họa|0.228573-2.08898
+FPTOpenSpeechData_Set001_V0.1_003706.wav|các quyết định dễ dẫn đến kích động như việc cấm đoán biểu tượng cờ phướn của người theo chủ nghĩa dân tộc cũng được nhiều chính phủ dỡ bỏ|0.439411-7.63298
+FPTOpenSpeechData_Set001_V0.1_003718.wav|ông -N định để -N với nga |1.08492-4.51298
+FPTOpenSpeechData_Set001_V0.1_003749.wav|nhưng việt cường vẫn kịp khép góc đẩy bóng giải nguy|0.307053-3.96098
+FPTOpenSpeechData_Set001_V0.1_003756.wav|thanh niên không chỉ nói chuyện -N di động khi lái xe|0.822021-3.81698
+FPTOpenSpeechData_Set001_V0.1_003760.wav|các lưu ý với điều hòa|0.783892-2.23298
+FPTOpenSpeechData_Set001_V0.1_003780.wav|nhiều người sẽ phải về nước vì không có điều kiện |0.343701-2.20898
+FPTOpenSpeechData_Set001_V0.1_003832.wav|cô bé khai rằng nạn nhân đã dụ vào căn hộ của y|0.284894-3.26498
+FPTOpenSpeechData_Set001_V0.1_003877.wav|khánh xốc nách chị loan kéo giật lùi về phía tường nhà bà|0.00388438-5.21756
+FPTOpenSpeechData_Set001_V0.1_003900.wav|trò đỏ đen của người việt ở Australia |0.441209-2.85698
+FPTOpenSpeechData_Set001_V0.1_003951.wav|dư luận nói -N đã lôi kéo các cầu thủ trẻ sa ngã ông -N|0.868741-6.38498
+FPTOpenSpeechData_Set001_V0.1_003952.wav|quyết định này được đưa ra một tuần sau khi quốc gia đông bắc á tuyên bố thử thành công vũ khí hạt nhân|0.893236-7.75298
+FPTOpenSpeechData_Set001_V0.1_003976.wav|bên cạnh đó nhiều đơn vị khử độc di động được huy động|0.225512-3.48098
+FPTOpenSpeechData_Set001_V0.1_003985.wav|tiền của tôi bị mất|0.217875-1.48528
+FPTOpenSpeechData_Set001_V0.1_004017.wav|quyến rũ gợi cảm với mong muốn thể hiện sự bí ẩn|1.21812-3.79298
+FPTOpenSpeechData_Set001_V0.1_004085.wav|nhưng sau một thời gian chim chuyển sang hạt dẻ|1.02961-5.16098
+FPTOpenSpeechData_Set001_V0.1_004183.wav|những tuổi thơ bị mất trong khu đèn đỏ ấn độ|0.421363-2.68898
+FPTOpenSpeechData_Set001_V0.1_004201.wav|người sợ nhột có những tính cách gì|0.929688-2.97698
+FPTOpenSpeechData_Set001_V0.1_004269.wav|khi bước tôi đau ở háng|0.162741-1.92098
+FPTOpenSpeechData_Set001_V0.1_004280.wav|trong khi ảnh của các tác giả nước ngoài danh tiếng lại mang một sắc thái hoàn toàn khác|0.825893-6.45698
+FPTOpenSpeechData_Set001_V0.1_004288.wav|nhiều lúc đến đoạn giải |0.571764-2.76098
+FPTOpenSpeechData_Set001_V0.1_004376.wav|câu hò bên bờ hiền lương trên sân khấu nước ngoài|1.38149-4.87298
+FPTOpenSpeechData_Set001_V0.1_004377.wav|lăn dấu ngón lăn dấu tay lần lượt từng ngón |0.171008-3.72098
+FPTOpenSpeechData_Set001_V0.1_004460.wav|một số người y buông tha không vì lý do gì|0.295691-3.21698
+FPTOpenSpeechData_Set001_V0.1_004471.wav|gái đào mỏ nga ở anh|0.425865-2.18498
+FPTOpenSpeechData_Set001_V0.1_004494.wav|cưỡng bức bạn gái để níu kéo tình yêu|0.319203-2.35298
+FPTOpenSpeechData_Set001_V0.1_004524.wav|công nghiệp khủng hoảng và thiếu vắng nhiều tên tuổi lớn nhưng triển lãm vào loại lớn nhất thế giới vẫn không thiếu vẻ đẹp của những người mẫu|6.93889e-17-7.70694
+FPTOpenSpeechData_Set001_V0.1_004560.wav|đây là một trong những mô hình chăn nuôi mới|0.165066-2.32898
+FPTOpenSpeechData_Set001_V0.1_004619.wav|vâng đây là món đặc biệt của đầu bếp hôm nay -N|0.00676016-3.04730
+FPTOpenSpeechData_Set001_V0.1_004688.wav|một em học sinh luôn giành điểm a ở trường này đã bị đánh cho đến khi bất tỉnh trong khi những kẻ tấn công hát những câu nhục mạ người hoa vào mặt em|9.28077e-16-10.3450
+FPTOpenSpeechData_Set001_V0.1_004694.wav|anh nông dân -N môi trường|0.803932-4.08098
+FPTOpenSpeechData_Set001_V0.1_004702.wav|phụ nữ mang thai ở đức bây giờ tránh tất cả các biện pháp giúp sinh đẻ thuận lợi |0.362122-4.70498
+FPTOpenSpeechData_Set001_V0.1_004742.wav|thu nhập của đối tượng này đến từ việc chia sẻ nguồn phí dịch vụ mà nhà đầu tư khả thi giao dịch|0.0271926-8.18498
+FPTOpenSpeechData_Set001_V0.1_004791.wav|cái xác đã phân hủy hàng trăm người hiếu kỳ đã đứng nghẹt trên cầu và bờ hồ để xem gây ách tắc nghiêm trọng kéo dài mãi tới tối mới hết|0.0333695-8.03094
+FPTOpenSpeechData_Set001_V0.1_004953.wav|hàng tốt không lo ế|1.00864-3.09698
+FPTOpenSpeechData_Set001_V0.1_005077.wav|ba cô bé gầy gò cúi gằm mặt xuống bàn|0.163672-2.44898
+FPTOpenSpeechData_Set001_V0.1_005205.wav|nhưng tình hình giờ phức tạp hơn nhiều|0.413655-2.25698
+FPTOpenSpeechData_Set001_V0.1_005207.wav|thìa lông hồng là những con chim nước chân dài có chiếc mỏ hình cái xẻng|0.0995695-3.69698
+FPTOpenSpeechData_Set001_V0.1_005225.wav|bây giờ nguồn thu vừa nhú mà đã cắt ngọn thì làm sao phát triển được|0.510522-5.52098
+FPTOpenSpeechData_Set001_V0.1_005260.wav|nếu một người đi hai vai rũ xuống bước đi nặng nề thì khẳng định trong lòng |0.471969-4.08098
+FPTOpenSpeechData_Set001_V0.1_005286.wav|hôm nay có ốc hồ tây|0.291583-2.18377
+FPTOpenSpeechData_Set001_V0.1_005329.wav| tôi cần hỏi anh vài câu|0.727743-2.44898
+FPTOpenSpeechData_Set001_V0.1_005365.wav|hai câu a hoặc y bạn có cách nhìn sự việc rõ luôn rõ ràng minh bạch|0.893757-6.26498
+FPTOpenSpeechData_Set001_V0.1_005391.wav|trước cửa siêu thị nguyễn kim tràng thi luôn đông nghịt khách|0.471776-3.12098
+FPTOpenSpeechData_Set001_V0.1_005449.wav|chém công an đứt lìa cánh tay|0.506127-2.13698
+FPTOpenSpeechData_Set001_V0.1_005456.wav|tôi sẽ có thể cho anh biết chắc vào tuần tới|0.00804258-2.90498
+FPTOpenSpeechData_Set001_V0.1_005586.wav|ngay lập tức hai người phụ nữ to lớn bước đến phía ông từ đằng sau|2.35736-6.88898
+FPTOpenSpeechData_Set001_V0.1_005657.wav|Bart không cho rằng những việc này là rất bình thường|1.04546-4.44098
+FPTOpenSpeechData_Set001_V0.1_005658.wav|chim sẻ mẹ ưu tiên con trai hơn con gái|0.292491-2.65767
+FPTOpenSpeechData_Set001_V0.1_005688.wav|khả năng ngoại cảm của người nước ngoài thế nào ạ|1.08954-4.96898
+FPTOpenSpeechData_Set001_V0.1_005697.wav|tại các buổi lễ này khách hàng tùy ý chọn lựa những căn hộ |0.373742-3.40898
+FPTOpenSpeechData_Set001_V0.1_005706.wav|điều may mắn là nó ít khi xảy ra|0.402365-2.64098
+FPTOpenSpeechData_Set001_V0.1_005723.wav|đứa bé mừng quýnh ngằn ngặt ngoay bầu sữa khô kiệt dăn deo của người mẹ|1.09043-7.63298
+FPTOpenSpeechData_Set001_V0.1_005726.wav|cha của thuận lai làm nghề lái xe đò đường dài tuyến sài gòn Pleiku |1.22996-5.88098
+FPTOpenSpeechData_Set001_V0.1_005766.wav|môi dưới của nó rất dài có thể cong duỗi |0.425925-2.88098
+FPTOpenSpeechData_Set001_V0.1_006032.wav|tôi bị ho và đau họng|0.000966896-1.88973
+FPTOpenSpeechData_Set001_V0.1_006077.wav|anh có thể đến đây để sửa không|0.00969231-1.94498
+FPTOpenSpeechData_Set001_V0.1_006108.wav|giọng nói nhỏ nhẹ phong cách đầy nữ tính nhẹ nhàng|0.290468-2.76098
+FPTOpenSpeechData_Set001_V0.1_006259.wav|một cô gái trong trang phục rực rỡ tại lễ hội|0.318666-2.44898
+FPTOpenSpeechData_Set001_V0.1_006593.wav|đây chính là hệ thống triệt tiêu mọi sức ì gặp phải của bất cứ bộ máy nào|0.480429-5.01698
+FPTOpenSpeechData_Set001_V0.1_006631.wav|so với những luống cải đã được trồng gần đó bởi phương pháp thông thường luống cải bắp sạch tuyệt đối này còn được gọi là rau hữu cơ cuộn chặt xanh mởn và chẳng có dấu hiệu bị nhiễm sâu bệnh|0.0301245-10.8749
+FPTOpenSpeechData_Set001_V0.1_006658.wav|những năm gần đây dịch vụ chăm sóc sức khỏe và sắc đẹp ngày càng nở rộ|1.46956-6.50498
+FPTOpenSpeechData_Set001_V0.1_006677.wav|lẽ thường càng già chúng ta tiếp thu càng khó khăn|0.343534-2.83298
+FPTOpenSpeechData_Set001_V0.1_006744.wav|cái vẹt cái có màu đỏ rực trong khi cá vẹt đực có màu xanh biếc -N|0.542773-8.56898
+FPTOpenSpeechData_Set001_V0.1_006753.wav|nguyễn văn vũ vừa tử nạn vì hỗ trợ đuổi bắt tội phạm ngày mười ba tháng một công an xã cẩm trạch huyện thần cẩu cho biết một người lái xe khách hai bảy tuổi đã tử nạn khi giúp một phụ nữ bị bảy tên khống chế cướp tài sản|0.0171066-12.3509
+FPTOpenSpeechData_Set001_V0.1_006806.wav|tiến sĩ phong thừa nhận khi giá thế giới tăng cao giá cả trong nước ắt bị vạ lây|0.697998-8.28098
+FPTOpenSpeechData_Set001_V0.1_006867.wav|qua xác minh số tem này được in giống y tem thật|0.429214-3.38498
+FPTOpenSpeechData_Set001_V0.1_006882.wav|thẻ nhựa báo thức ăn ôi thiu|0.477395-2.52098
+FPTOpenSpeechData_Set001_V0.1_006890.wav|dự án giao thông nông thôn giai đoạn I sử dụng vốn của ngân hàng thế giới|0.310085-3.88898
+FPTOpenSpeechData_Set001_V0.1_006892.wav|trong những đợt phun trào núi lửa|0.249051-2.01698
+FPTOpenSpeechData_Set001_V0.1_006920.wav|-N tôi có nghe rằng kiểu mới , -N có tầm chạy tốt -N|0.918811-1.82958
+FPTOpenSpeechData_Set001_V0.1_006993.wav|sau sự việc mọi người vẫn chủ quan không đi chích ngừa dẫu vết cắn đã tạo mủ trắng loãng|0.00738338-5.33094
+FPTOpenSpeechData_Set001_V0.1_007030.wav|thiếu thốn bủa vây tứ bề khiến hai phận già khốn khó càng thêm bó buộc|1.43731-6.67298
+FPTOpenSpeechData_Set001_V0.1_007128.wav|ông sẽ ứng xử như thế nào|0.853701-2.32898
+FPTOpenSpeechData_Set001_V0.1_007273.wav|-N \r\n là họ của gia đình anh ấy|0.00105031-0.481254 0.481254-2.21608
+FPTOpenSpeechData_Set001_V0.1_007296.wav|và tôi đã theo đuổi anh ấy hơn ba năm trời|0.308406-2.66498
+FPTOpenSpeechData_Set001_V0.1_007333.wav|khi những chiếc đĩa được dỡ bỏ lũ hà mã cũng chẳng thèm chú ý tới những chiếc nhãn đó nữa |0.0230482-5.54694
+FPTOpenSpeechData_Set001_V0.1_007337.wav|các cộng sự kinh hoàng đã chứng kiến Brown một tay bơi có hạng|1.71453-5.37698
+FPTOpenSpeechData_Set001_V0.1_007338.wav|tò mò anh cầm lên xem thì một tiếng nổ đinh tai vang lên thổi bay cả một phần cánh tay của anh|0.416996-7.46498
+FPTOpenSpeechData_Set001_V0.1_007379.wav|thực phẩm với sức khỏe sinh sản|0.490987-2.83298
+FPTOpenSpeechData_Set001_V0.1_007406.wav|cụ thể chủ lò gạch vương nói trên là một trên là con một quan chức tại làng thảo thánh|0.289077-6.96098
+FPTOpenSpeechData_Set001_V0.1_007412.wav|nhưng một cầu thủ trong trang phục đấu nhễ nhại mồ hôi trông thế nào ấy|0.370708-4.00898
+FPTOpenSpeechData_Set001_V0.1_007467.wav|chúng cũng giúp ngăn ngừa ung thư và các căn bệnh khác|0.559704-3.19298
+FPTOpenSpeechData_Set001_V0.1_007473.wav|ai oán u sầu hay tươi đẹp|0.254976-2.28634
+FPTOpenSpeechData_Set001_V0.1_007528.wav|quân đội mỹ muốn chế tạo những chiếc máy tự động hoàn toàn vì những chiếc mà họ đang có vẫn cần được điều khiển bởi con người|0.00922845-6.66294
+FPTOpenSpeechData_Set001_V0.1_007530.wav|vào ngày lạnh có thể mặc áo thể thao -N dáng lửng để tập ngoài trời|0.0519656-9.38498
+FPTOpenSpeechData_Set001_V0.1_007561.wav|đổi ngôi nhà đổi ngôi ở làng quần vợt anh|0.575555-3.67298
+FPTOpenSpeechData_Set001_V0.1_007576.wav|ông lão gầy gò nhoài người lên phía trước cố lắng |0.279467-3.50498
+FPTOpenSpeechData_Set001_V0.1_007587.wav|kiểu người gầy còm thì cao và gầy với chân dài xương nhỏ và phần trên cơ thể hẹp|0.806272-6.64898
+FPTOpenSpeechData_Set001_V0.1_007617.wav|kết quả không như ý này khiến vị thế của anh ở bảng e trở nên vô cùng bấp bênh|0.864195-5.44898
+FPTOpenSpeechData_Set001_V0.1_007811.wav|theo bản đề xuất của các nhà thiên văn học được chính thức đưa ra từ ngày|0.605682-5.88098
+FPTOpenSpeechData_Set001_V0.1_007875.wav|hộp sọ thứ ba với bộ não nhỏ răng lớn|0.246429-2.66498
+FPTOpenSpeechData_Set001_V0.1_007925.wav|vui lòng mang bữa tối của tôi vào phòng|0.00110179-1.94643
+FPTOpenSpeechData_Set001_V0.1_007995.wav|một số bác sĩ trung tâm y tế huyện cái bè -N giang câu kết tổ chức tham ô|0.964005-5.95298
+FPTOpenSpeechData_Set001_V0.1_008015.wav|nghĩ thế là ổn long lấy vợ để cha mẹ yên lòng|0.225486-5.25698
+FPTOpenSpeechData_Set001_V0.1_008037.wav|thật dễ bóc mẽ những lão chồng già ngoại tình vốn thích của lạ nên các lão rất dễ sa vào ngoại tình song không hề vứt bỏ gia đình mà đã đầu tư vào đó khá nhiều tiền của|0.0136661-9.86694
+FPTOpenSpeechData_Set001_V0.1_008121.wav|bé tỏ ra khó tách biệt với những trẻ khác và dễ khóc|0.404044-3.57698
+FPTOpenSpeechData_Set001_V0.1_008149.wav|trước đây nó đã được áp dụng để làm cho các bợm rượu chừa thói say sưa|0.296906-5.25698
+FPTOpenSpeechData_Set001_V0.1_008243.wav|nguyên nhân cái chết được xác định là do nhồi máu cơ tim|0.219499-3.07298
+FPTOpenSpeechData_Set001_V0.1_008297.wav|ở đó có cửa hàng bách hóa không|0.281085-1.94498
+FPTOpenSpeechData_Set001_V0.1_008324.wav|có khi nào chính công ty bán cổ phiếu -N họ cố ý mua cổ phiếu|0.788289-5.68898
+FPTOpenSpeechData_Set001_V0.1_008342.wav|ngoài ra thùng rác còn có một pin sạc dự phòng -N dùng trong khi điện|0.312574-5.76098
+FPTOpenSpeechData_Set001_V0.1_008357.wav|thoát chết nhờ gửi tin nhắn nhanh|0.234128-1.70498
+FPTOpenSpeechData_Set001_V0.1_008378.wav|kênh năm|0.0104908-0.813779
+FPTOpenSpeechData_Set001_V0.1_008438.wav|sẽ học cách cấm của nước ngoài|1.22085-3.76898
+FPTOpenSpeechData_Set001_V0.1_008449.wav|quyết định này cũng đã được viện kiểm sát nhân dân thành phố phê chuẩn|0.289501-4.32098
+FPTOpenSpeechData_Set001_V0.1_008528.wav|nếu người ta cũng thích bạn lông mày của họ cũng rướn|0.336106-3.09698
+FPTOpenSpeechData_Set001_V0.1_008570.wav|nhà nước sẽ can thiệp hỗ trợ cho nông dân sản xuất vay vốn với lãi suất ưu đãi khi giá mía biến động theo chiều hướng giảm|0.187891-8.76098
+FPTOpenSpeechData_Set001_V0.1_008583.wav|sự ăn ý là yếu tố không thể thiếu trong một tập thể chiến thắng|0.626376-3.33698
+FPTOpenSpeechData_Set001_V0.1_008633.wav|còn thờ ơ|0.786191-2.25698
+FPTOpenSpeechData_Set001_V0.1_008660.wav|anh sẽ chơi Bowling chứ -N|0.00853195-1.79803
+FPTOpenSpeechData_Set001_V0.1_008684.wav|tiến sĩ ngô anh cùng thành quả của|0.000544843-2.50694
+FPTOpenSpeechData_Set001_V0.1_008753.wav|thị trường chứng khoán cần|0.000509986-1.55027
+FPTOpenSpeechData_Set001_V0.1_008754.wav|-N này|3.45176-4.17698
+FPTOpenSpeechData_Set001_V0.1_008774.wav|có xe buýt đi thành phố |0.0309383-1.61999
+FPTOpenSpeechData_Set001_V0.1_008784.wav|do đó không thể nào nhầm lẫn được giữa một nụ cười ngượng nghịu và một nụ cười -N hạnh phúc|0.00382476-6.63921
+FPTOpenSpeechData_Set001_V0.1_008845.wav|một đoạn kè bạch đằng sử dụng sắt sắt trái với thiết kế|0.412266-5.06498
+FPTOpenSpeechData_Set001_V0.1_008862.wav|chiến tranh liên miên nên suốt thời thơ ấu tôi không một lần gặp ba|1.41164-7.63298
+FPTOpenSpeechData_Set001_V0.1_008897.wav|trò lừa tình giữa phong lan và ong bắp cày|0.518298-2.73698
+FPTOpenSpeechData_Set001_V0.1_008976.wav|tác dụng của đậu phụ đối với sức khỏe|1.29193-4.00898
+FPTOpenSpeechData_Set001_V0.1_008980.wav|hãy thử ngồi vào bàn và ghi chép lại những hồi tưởng vô giá ấy|0.331819-3.81698
+FPTOpenSpeechData_Set001_V0.1_008999.wav|chưa bao giờ đi đến tột đỉnh của thành công để mình được sướng và khán giả được sướng|1.50608-6.81698
+FPTOpenSpeechData_Set001_V0.1_009001.wav|đáng buồn cho các anh tài xế bị dụ dỗ là trong khu rửa xe toàn là nam giới|0.276117-5.30498
+FPTOpenSpeechData_Set001_V0.1_009073.wav|và vì lưỡi mòn nhanh nên khi cắt lúa bị rối hạt rơi rụng|0.00221633-5.59413
+FPTOpenSpeechData_Set001_V0.1_009080.wav|nhiệm vụ của họ là ứng phó nhanh nhất để cứu nạn |0.354195-2.56898
+FPTOpenSpeechData_Set001_V0.1_009134.wav|lương mạnh hải tôi thoải mái với lối rẽ từ nhà báo thành diễn viên|0.922087-6.14498
+FPTOpenSpeechData_Set001_V0.1_009164.wav|thoa một lượng kem vừa đủ để che lấp đốm nâu hay đốm mụn xấu xí|0.514638-5.80898
+FPTOpenSpeechData_Set001_V0.1_009176.wav|ảnh diễu binh mừng thọ vua thái|0.521397-2.54498
+FPTOpenSpeechData_Set001_V0.1_009200.wav|thùy dung cười tít mắt bên các thiên thần nhỏ mai phương thúy rạng rỡ trong cái lạnh hà nội|1.52987-6.61085
+FPTOpenSpeechData_Set001_V0.1_009231.wav|phản ánh chính xác các nghiệp vụ bán hàng ngôn ngữ thể hiện hoàn toàn tiếng việt|1.14767-6.45698
+FPTOpenSpeechData_Set001_V0.1_009287.wav|do tranh chấp lối đi ông đạt và hải nảy sinh mâu thuẫn|0.272919-3.45698
+FPTOpenSpeechData_Set001_V0.1_009348.wav|chưa thể bắt nhịp được với -N cao của trận đấu|1.13777-4.00898
+FPTOpenSpeechData_Set001_V0.1_009350.wav|bạn có thoa kem chống nắng trên vết thẹo không|0.163853-2.68898
+FPTOpenSpeechData_Set001_V0.1_009369.wav|tôi bị chứng mất ngủ|0.00131713-2.12128
+FPTOpenSpeechData_Set001_V0.1_009434.wav|cà phê rượu rum và kem đánh|0.00123642-2.23174
+FPTOpenSpeechData_Set001_V0.1_009463.wav|báo chí hải ngoại sẽ đưa sự thật về những hành động sai trái của trung quốc ra thế giới|0.985213-6.58588
+FPTOpenSpeechData_Set001_V0.1_009498.wav|lính hô chúng tôi -N úp mặt xuống -N|0.280271-2.20898
+FPTOpenSpeechData_Set001_V0.1_009516.wav|những ngày ở đây tú gặp đồng nghiệp cũ tên thanh|0.287924-2.90498
+FPTOpenSpeechData_Set001_V0.1_009522.wav|cá mú sốc nước ngọt chết sạch|0.000907918-1.88349
+FPTOpenSpeechData_Set001_V0.1_009550.wav|lỗ lần đầu sau bảy mươi năm ngày hai bảy tháng mười hãng cho biết một thập kỷ phát triển như vũ bão đã kết thúc và sẽ nhận mức lỗ lần đầu tiên kể từ năm ngoái|0.0314229-9.07494
+FPTOpenSpeechData_Set001_V0.1_009601.wav|cái đó quá nặng đối với hành lý xách tay|0.000947361-2.84062
+FPTOpenSpeechData_Set001_V0.1_009713.wav|một bên thi đấu khá ung dung trong khi bên kia thì vô cùng mạnh mẽ và quyết đoán|1.04501-6.96098
+FPTOpenSpeechData_Set001_V0.1_009719.wav|chia lìa tình nhân vì ngôi nhà bạc tỷ|0.566375-3.28898
+FPTOpenSpeechData_Set001_V0.1_009748.wav|chúng có bị khó ở|0.610791-1.72898
+FPTOpenSpeechData_Set001_V0.1_009762.wav|ấp ủ mầm non hi vọng để đợi một ngày mưa lộp rộp gieo vần|1.27051-5.80898
+FPTOpenSpeechData_Set001_V0.1_009776.wav|khác với mọi khi ưu thế dẫn trước không làm đội khách chơi hưng phấn hơn|0.634039-3.81698
+FPTOpenSpeechData_Set001_V0.1_009777.wav|còn dự án phát triển sản phẩm từ mây và gỗ đảm bảo bền vững do ủy ban xã quản lý tài trợ sẽ thiết lập hệ thống sản xuất bài bản cho các sản phẩm mây tre tại việt nam cũng như lào|0.0394008-11.3789
+FPTOpenSpeechData_Set001_V0.1_009850.wav|nhóm người đang -N và không một chút nghi ngờ gì đã không nhận thấy|1.23072-4.44098
+FPTOpenSpeechData_Set001_V0.1_009952.wav|được chế tác từ kịch bản nước ngoài|0.809696-3.38498
+FPTOpenSpeechData_Set001_V0.1_009982.wav|tàu tốc hành kế tiếp đến hơn một giờ -N|0.00128958-2.32898
+FPTOpenSpeechData_Set001_V0.1_010066.wav|đây là biện pháp giúp phanh phui thêm những quan chức tham nhũng|0.318232-3.36098
+FPTOpenSpeechData_Set001_V0.1_010074.wav|hai diễn viên hài Australia lái một đoàn xe hộ tống rởm|0.289752-5.04098
+FPTOpenSpeechData_Set001_V0.1_010133.wav|còn cửa van thay vì làm -N lá tôn anh thêm vào một thanh phay|1.77801-6.96098
+FPTOpenSpeechData_Set001_V0.1_010149.wav|không rõ anh có phải gánh cáo trạng gì không|0.284261-3.16898
+FPTOpenSpeechData_Set001_V0.1_010169.wav|rầm rộ nhất là ở thủ đô|0.250975-1.87298
+FPTOpenSpeechData_Set001_V0.1_010207.wav|vận hành máy đập lúa an|0.000811842-2.19932
+FPTOpenSpeechData_Set001_V0.1_010229.wav|các nhà phê bình cho biết -N tàu con thoi đã quá già nua quá đắt |0.759146-5.25698
+FPTOpenSpeechData_Set001_V0.1_010247.wav|-N tôi không ăn được thức ăn nhiều mỡ|0.00212012-2.30005
+FPTOpenSpeechData_Set001_V0.1_010252.wav|hàng tốt không lo ế|0.865952-3.07298
+FPTOpenSpeechData_Set001_V0.1_010485.wav|trong một lần -N sức khỏe định kỳ -N tò mò -N hồ sơ y khoa|0.938576-5.32898
+FPTOpenSpeechData_Set001_V0.1_010529.wav|điều kiện và thủ tục để được đi làm việc ở nước ngoài theo hình thức hợp đồng cá nhân|0.959665-6.33309
+FPTOpenSpeechData_Set001_V0.1_010533.wav|miễn là có tình yêu thì mọi chuyện sẽ tự động được giải quyết êm đẹp|0.421133-4.29698
+FPTOpenSpeechData_Set001_V0.1_010536.wav|một số hệ vi sinh vật có ích có khả năng ức chế một số loài nấm gây bệnh ở rễ|0.741985-6.50498
+FPTOpenSpeechData_Set001_V0.1_010545.wav|tôi nhận và thấy -N có lỗi vô cùng|0.788389-4.39298
+FPTOpenSpeechData_Set001_V0.1_010595.wav|tôi lân la tới một sạp chị bán hàng|0.634429-3.64898
+FPTOpenSpeechData_Set001_V0.1_010617.wav|không phải thấy nước ngoài làm gì chúng ta cũng làm theo và cho rằng đó là hội nhập|0.417924-5.35298
+FPTOpenSpeechData_Set001_V0.1_010653.wav|bên kia sân đội đội khách cũng phung phí không ít cơ hội ăn bàn|0.421083-4.75298
+FPTOpenSpeechData_Set001_V0.1_010742.wav|cho rằng chú dụ dỗ và tìm cách chia rẽ tình cảm của mình |0.752424-3.98498
+FPTOpenSpeechData_Set001_V0.1_010743.wav|một nhóm người nước ngoài đánh cắp tài khoản gần chín tỷ đồng|0.000340877-3.65024
+FPTOpenSpeechData_Set001_V0.1_010885.wav|họ nhớ nhung làm thơ tình và coi nhau như thần tượng|0.553627-3.28898
+FPTOpenSpeechData_Set001_V0.1_010912.wav|nghịch lý này khiến sự ác cảm đối với ông Bush trong thế giới ả rập khó mà xóa được|0.00887039-4.96634
+FPTOpenSpeechData_Set001_V0.1_010930.wav|nhà thiết kế trẻ hoài sang mang thời trang việt đến nước mỹ|0.00670359-4.59226
+FPTOpenSpeechData_Set001_V0.1_010935.wav|vì vậy bạn như một như là một bờ vai vững chắc |0.390089-3.50498
+FPTOpenSpeechData_Set001_V0.1_010979.wav|cho một con tem gởi thư bưu thiếp này|0.00111191-2.53009
+FPTOpenSpeechData_Set001_V0.1_010985.wav|đoàn nam phi ăn mừng chiến thắng|0.307195-1.82498
+FPTOpenSpeechData_Set001_V0.1_011136.wav|Bush lên đường đi châu á|0.167369-1.63298
+FPTOpenSpeechData_Set001_V0.1_011174.wav|các cửa hàng ở phố Yết Kiêu|0.570129-2.01698
+FPTOpenSpeechData_Set001_V0.1_011207.wav|nhưng sức khỏe tôi vẫn cứ vậy|0.541064-2.64098
+FPTOpenSpeechData_Set001_V0.1_011245.wav|mặc dù ông được người nghèo ở vùng nông thôn yêu mến |0.317379-3.00098
+FPTOpenSpeechData_Set001_V0.1_011335.wav|những khi mùa khô kéo dài mỗi nhà vẫn phải dùng nước nhiễm phèn sau khi được lắng đọng bằng những biện pháp khác nhau khi dùng quần áo cũ lúc là phèn vẫn được dùng khử đục cát sỏi miễn là có nước để dùng|0.00728181-10.5149
+FPTOpenSpeechData_Set001_V0.1_011394.wav|hãy chỉ gọi vào máy di động của tôi|0.00620032-2.46428
+FPTOpenSpeechData_Set001_V0.1_011404.wav|không , vậy không sao tôi sẽ gọi ông ấy sau cám ơn|0.0144025-3.59601
+FPTOpenSpeechData_Set001_V0.1_011567.wav|chính xác thì quí vị bị bỏng như thế|0.000449142-2.70677
+FPTOpenSpeechData_Set001_V0.1_011621.wav| nữ nhân viên quyến rũ khách hàng|0.256785-2.08898
+FPTOpenSpeechData_Set001_V0.1_011633.wav|tảo độc bùng phát ở hồ xuân hương do ô nhiễm nước|0.464353-3.19298
+FPTOpenSpeechData_Set001_V0.1_011635.wav|-N tôi có bị bệnh lao khi khoảng hai mươi mấy tuổi|0.0175455-2.88098
+FPTOpenSpeechData_Set001_V0.1_011675.wav|-N hổ ở rừng u minh từng là câu chuyện -N bao người|1.53894-5.06498
+FPTOpenSpeechData_Set001_V0.1_011806.wav|lời khai của đồng cho thấy đồng có đem chiếu để ở gốc dừa theo yêu cầu của ông tám |0.513349-6.81698
+FPTOpenSpeechData_Set001_V0.1_011936.wav|các cảnh sát ngỏ ý giúp|0.563431-1.58498
+FPTOpenSpeechData_Set001_V0.1_011939.wav|hắn tên nguyễn văn bé tư ngụ phường ngụ tứ|0.256608-3.96098
+FPTOpenSpeechData_Set001_V0.1_011980.wav|ông hà cho rằng đây có thể xem là thiệt hại lớn cho ngân sách nhà nước|0.650027-5.61698
+FPTOpenSpeechData_Set001_V0.1_011994.wav|những ý tưởng ấp ủ cứ ớn cứ lớn dần trong đầu cô|0.151851-4.03298
+FPTOpenSpeechData_Set001_V0.1_011997.wav|hoàn thuế giá trị gia tăng với một số dự án mới thành lập không có giấy phép đầu tư|1.28822-6.35901
+FPTOpenSpeechData_Set001_V0.1_012133.wav|trong -N đó việc nghe ở tần số thấp yếu tố cần thiết|1.30417-5.42498
+FPTOpenSpeechData_Set001_V0.1_012160.wav|cần xem xét dấu hiệu lừa đảo|0.000613126-2.40928
+FPTOpenSpeechData_Set001_V0.1_012198.wav|còn khi dòng điện bị ngắt các tinh thể duỗi ra trả lại hình dạng chiều dài ban đầu|0.948308-6.88898
+FPTOpenSpeechData_Set001_V0.1_012204.wav|việc kể chuyện đùa nhạt nhẽo mang lại nhiều hậu quả chẳng hạn như việc bị bẽ mặt bị ngắt lời bị giận dữ hoặc thậm chí là lãnh ngay một cú đấm giữa mặt nhà nghiên cứu -N đại học mỹ nói|0.0137658-9.93894
+FPTOpenSpeechData_Set001_V0.1_012215.wav|bao gồm thuế và phục vụ|0.00581887-1.84083
+FPTOpenSpeechData_Set001_V0.1_012297.wav|ước mơ đua xe từ khi còn nhỏ|0.253835-2.06498
+FPTOpenSpeechData_Set001_V0.1_012308.wav|khi giấy khô đi nó có thể được uốn cong gấp hoặc cắt gọt bằng kéo|0.552812-5.01698
+FPTOpenSpeechData_Set001_V0.1_012345.wav|hiệp hội yêu cầu bán đường để ổn định giá nguyên liệu mía đang thiếu thiếu nguyên liệu mía nhiều doanh nghiệp gặp khó khăn|1.01788-9.19298
+FPTOpenSpeechData_Set001_V0.1_012357.wav|kiến quốc ăn mừng thắng lợi|0.866031-2.37698
+FPTOpenSpeechData_Set001_V0.1_012369.wav|rất có thể có một viên ngọc quý ẩn -N sau một cái vỏ bọc xấu xí|0.303253-5.95298
+FPTOpenSpeechData_Set001_V0.1_012376.wav|trong bảng e không có đối thủ nào tỏ ra xứng tầm với đội tuyển đảo quốc sương mù|0.540728-4.94498
+FPTOpenSpeechData_Set001_V0.1_012377.wav|mất bao nhiêu phút đi đến công viên|0.0114064-2.09673
+FPTOpenSpeechData_Set001_V0.1_012404.wav|vứt sạch những thứ gợi nhớ về|0.000193223-2.30591
+FPTOpenSpeechData_Set001_V0.1_012439.wav|điều này cũng có nghĩa ai mua -N sớm|0.708593-3.26498
+FPTOpenSpeechData_Set001_V0.1_012484.wav|hiện chưa rõ y đã nói chuyện với ai cũng như chi tiết |0.217771-2.83298
+FPTOpenSpeechData_Set001_V0.1_012513.wav|quân đội mỹ muốn chế tạo những máy bay tự động hoàn toàn vì những chiếc mà họ đang có vẫn cần được sự điều khiển bởi con người|0.00461422-6.66294
+FPTOpenSpeechData_Set001_V0.1_012575.wav|các tay đua hàn quốc ung dung về đích|0.204224-1.92098
+FPTOpenSpeechData_Set001_V0.1_012605.wav|đây không phải là lần đầu tiên push nói nhịu như thế này|0.295061-2.97698
+FPTOpenSpeechData_Set001_V0.1_012670.wav|ông đã tăng cường khả năng tiếng anh hoàn hảo của mình trong thời gian hoạt động ngoại giao tại đây và sau đó ở ấn|0.00434673-7.78600
+FPTOpenSpeechData_Set001_V0.1_012764.wav|ba chàng trai nhảy trên giày cao gót thẳng tiến vào vòng bán kết cuộc thi tài năng tại anh|1.12464-6.25836
+FPTOpenSpeechData_Set001_V0.1_012766.wav|số ấu trùng tạo ra từ một mẹ thì không thể biến đổi giới tính|0.383993-3.76898
+FPTOpenSpeechData_Set001_V0.1_012934.wav|chào mừng đến với unicity starter chúc một cuộc hành trình tốt đẹp|0.00221567-3.41120
+FPTOpenSpeechData_Set001_V0.1_012954.wav|không gian oằn xuống bởi sức nặng trái đất|0.324369-3.52898
+FPTOpenSpeechData_Set001_V0.1_013057.wav|kền kền gà tây nổi tiếng là nhờ cái đầu trọc to đùng đỏ ửng|0.274455-4.27298
+FPTOpenSpeechData_Set001_V0.1_013073.wav|ồ tôi xin lỗi , xin vui lòng cho tôi hỏi bạn gọi món gì|0.0172275-3.45698
+FPTOpenSpeechData_Set001_V0.1_013144.wav|tôi muốn trượt tuyết nhiều hơn hoặc ít hơn một tuần , có gói du lịch trượt tuyết nào không|0.0121142-4.74873
+FPTOpenSpeechData_Set001_V0.1_013240.wav|con cá -N khiếp sợ những ai chưa từng trông thấy|0.683817-5.68898
+FPTOpenSpeechData_Set001_V0.1_013298.wav|đối tượng trinh sát theo dõi -N trung quốc|0.757645-3.33698
+FPTOpenSpeechData_Set001_V0.1_013299.wav|bao giờ cũng vậy ngay cả khi chúng ta đang sống trong hòa bình thì chúng ta vẫn cứ e sợ những cuộc chiến tranh có thể đến bất cứ lúc nào trong tương lai|0.207608-9.04898
+FPTOpenSpeechData_Set001_V0.1_013493.wav|mỗi chiều chỉ có một làn với vô số ổ gà như rỗ hoa trên mặt đường|0.573917-3.69698
+FPTOpenSpeechData_Set001_V0.1_013526.wav|anh châu bị bê tông đè chết tại chỗ còn anh doanh bị đứt lìa hai chân dập bàng quang chết trên đường đưa đi cấp cứu|0.264758-9.31298
+FPTOpenSpeechData_Set001_V0.1_013545.wav|ngay tại mỹ chính phủ cũng không được tài trợ chút nào|0.621045-3.57698
+FPTOpenSpeechData_Set001_V0.1_013633.wav|riêng nghĩa do vết thương quá nặng nên đã|0.000933442-3.18668
+FPTOpenSpeechData_Set001_V0.1_013682.wav|thọ hứa là sẽ xếp hai bị can này vào cuối danh sách đề nghị truy tố|0.366063-4.32098
+FPTOpenSpeechData_Set001_V0.1_013696.wav|quý vị có cảm giác nhức mỏi ớn lạnh đau họng cổ mũi và ho|0.000768493-4.01585
+FPTOpenSpeechData_Set001_V0.1_013697.wav|do vậy họ chẳng phải e dè bất cứ đối thủ nào|0.959663-4.39298
+FPTOpenSpeechData_Set001_V0.1_013715.wav|chuyển V hai ti vi chuyển V hai|0.275415-2.95298
+FPTOpenSpeechData_Set001_V0.1_013730.wav|nhưng khi đã trưởng thành cảm giác ngượng ngập e dè xen vào|0.595227-3.55298
+FPTOpenSpeechData_Set001_V0.1_013731.wav|nơi đây còn nổi tiếng với những sản phẩm được chế biến từ dừa như kẹo dừa và hàng thủ công|1.51265-6.38498
+FPTOpenSpeechData_Set001_V0.1_013807.wav|bèo ra đều cánh nhỏ y chang những nhát dao chuyên cần của các cô thôn nữ|0.318479-4.94498
+FPTOpenSpeechData_Set001_V0.1_013821.wav|tôi đang cho thuốc giảm|0.000727837-1.87173
+FPTOpenSpeechData_Set001_V0.1_013833.wav|trong ngắn hạn thị trường vận hành như một cỗ máy bầu cử|1.52665-6.07298
+FPTOpenSpeechData_Set001_V0.1_013851.wav|-N ổn định|2.22879-3.14498
+FPTOpenSpeechData_Set001_V0.1_013880.wav|rất vui được biết anh|0.00425466-1.92098
+FPTOpenSpeechData_Set001_V0.1_013885.wav|ảnh Bush Decor |0.535989-1.89698
+FPTOpenSpeechData_Set001_V0.1_013917.wav|phan tấn đạt ăn mừng chiến thắng|0.492728-2.04098
+FPTOpenSpeechData_Set001_V0.1_013929.wav|sau thời gian đóng phim ở thành phố trung về quê ở đà lạt thuê phòng ở|0.353583-3.64898
+FPTOpenSpeechData_Set001_V0.1_013946.wav|phát hiện pháo đài ở cửa ngõ phía đông ai cập cổ đại|0.861096-3.43298
+FPTOpenSpeechData_Set001_V0.1_013952.wav|ở người bị hội chứng ăn khi ngủ phần não phải vẫn thức và sau đó là cả các dạng hoạt động thể chất|0.0323265-5.83494
+FPTOpenSpeechData_Set001_V0.1_013964.wav|nhà đầu tư ồ ạt bán tháo cổ phiếu|0.280784-2.30498
+FPTOpenSpeechData_Set001_V0.1_013974.wav|những tiếng sủa inh ỏi liên tiếp của cả đàn chó trong|0.192038-2.64098
+FPTOpenSpeechData_Set001_V0.1_014026.wav|phiên tòa phúc thẩm sau đó đã tuyên y án đối với các bị cáo khác trong vụ án|0.489972-5.01698
+FPTOpenSpeechData_Set001_V0.1_014079.wav|kênh hai|0.154264-0.909045
+FPTOpenSpeechData_Set001_V0.1_014092.wav|an huyện quảng ngãi đã triệu tập bố mẹ của cháu lĩnh là nguyễn văn vĩnh và võ thị thủy để lấy lời khai|0.290272-7.27494
+FPTOpenSpeechData_Set001_V0.1_014105.wav|chủ nhà yểm thế hơn ngay từ khâu chuẩn bị|0.817153-3.64898
+FPTOpenSpeechData_Set001_V0.1_014106.wav|bò sát khổng lồ ngủ như chim|0.570662-2.42498
+FPTOpenSpeechData_Set002_V0.1_000076.wav|-N Audi q5 hai không mười sáu thay đổi diện|0.00149059-3.41117
+FPTOpenSpeechData_Set002_V0.1_000078.wav|Bị đánh chết khi ăn trộm nhựa|0.000828232-2.27684
+FPTOpenSpeechData_Set002_V0.1_000104.wav|-N thiết kế lệch vai cùng phần vải voan bay -N bổng buông rủ bổ sung nét duyên dáng|0.00149791-7.43911
+FPTOpenSpeechData_Set002_V0.1_000194.wav|khung cảnh chợ chiều ảm đạm buồn tẻ lác đác dăm ba|0.00112578-4.81421
+FPTOpenSpeechData_Set002_V0.1_000196.wav|lexus ls hai không mười sáu xế|0.00732219-4.66545
+FPTOpenSpeechData_Set002_V0.1_000198.wav|Chính phủ Mỹ đóng|0.00112437-1.82812
+FPTOpenSpeechData_Set002_V0.1_000203.wav|Hai người gục chết giữa phố nghi do va chạm|0.000398899-4.26534
+FPTOpenSpeechData_Set002_V0.1_000205.wav|Ước mơ sắm ô tô đợi em|0.00113325-2.49704
+FPTOpenSpeechData_Set002_V0.1_000209.wav|gắp cá ra dĩa rắc thêm chút tiêu xay rải vài cọng|0.00144289-5.23540
+FPTOpenSpeechData_Set002_V0.1_000211.wav|Cụ ông một trăm mười tuổi vượt hành trình tám tháng đến Đức|0.000263729-5.72406
+FPTOpenSpeechData_Set002_V0.1_000216.wav|Tư vấn bệnh khớp Bốn trường hợp nên khám phụ khoa|0.00158308-4.59960
+FPTOpenSpeechData_Set002_V0.1_000217.wav|Sa pa huyền ảo Hà Nội muôn nẻo ngõ Phở lang|0.00158586-5.29344
+FPTOpenSpeechData_Set002_V0.1_000218.wav|Nữ hoàng triển khai trực thăng chờ Kate |0.00157961-3.38197
+FPTOpenSpeechData_Set002_V0.1_000237.wav|-N bật đèn xi nhan đoạn đường cong lỗi đè vạch nộp phạt bao nhiêu|0.000112186-6.65383
+FPTOpenSpeechData_Set002_V0.1_000238.wav|Những tác phẩm điêu khắc thực vật kỳ vĩ|0.131877-7.41258
+FPTOpenSpeechData_Set002_V0.1_000239.wav|út nhím nhanh nhẩu trả lời nghiêng nghiêng đôi má hồng bầu bĩnh chờ đợi|0.112526-6.17734
+FPTOpenSpeechData_Set002_V0.1_000240.wav|Bạn gái công khai hẹn hò với người thứ ba -N|0.113302-4.17600
+FPTOpenSpeechData_Set002_V0.1_000241.wav|-N Thủ tướng đi từ washington qua New York rồi đến thẳng Berlin |0.00123827-3.69046
+FPTOpenSpeechData_Set002_V0.1_000243.wav|Salad trộn chả đùm nhấm nuốc mì hoành thánh nghêu hai món|0.125894-8.66806
+FPTOpenSpeechData_Set002_V0.1_000265.wav|-N hãy dẹp bỏ suy nghĩ thiển cận và ích kỉ đó đi em nhé|0.00154925-4.15994
+FPTOpenSpeechData_Set002_V0.1_000273.wav|-N chằng chịt dây thép gai quấn ở thân cây ngăn chặn kẻ xấu leo lên cắt cành|0.00200162-7.90526
+FPTOpenSpeechData_Set002_V0.1_000274.wav|VN index trồi sụt loanh quanh ngưỡng tham|0.00124957-3.33439
+FPTOpenSpeechData_Set002_V0.1_000284.wav|-N Nha sĩ quỳ suốt bốn mươi phút phẫu thuật cho bệnh|0.00122994-3.62119
+FPTOpenSpeechData_Set002_V0.1_000289.wav|các kiều nữ xứ kim chi thường xuyên nhấn nhá cho chúng với một chút lọn xoăn bồng bềnh|0.231314-6.81332
+FPTOpenSpeechData_Set002_V0.1_000304.wav|-N Những cơn mưa Huế đỏng đảnh nơi ấy anh còn|0.000694803-3.49298
+FPTOpenSpeechData_Set002_V0.1_000307.wav|thịt bò xào lá tỏi và mộc nhĩ cháo long nhãn hạt sen gan lợn nấu với đậu|0.00567631-4.55740
