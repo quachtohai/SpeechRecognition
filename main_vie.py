@@ -9,7 +9,8 @@ from keras import layers
 import pandas as pd
 import csv
 from pyvi import ViTokenizer
-
+import re
+import sys
 class TokenEmbedding(layers.Layer):
     def __init__(self, num_vocab=1000, maxlen=100, num_hid=64):
         super().__init__()
@@ -17,7 +18,7 @@ class TokenEmbedding(layers.Layer):
         self.pos_emb = layers.Embedding(input_dim=maxlen, output_dim=num_hid)
 
     def call(self, x):
-        maxlen = tf.shape(x)[-1]
+        maxlen = tf.shape(x)[-1]       
         x = self.emb(x)
         positions = tf.range(start=0, limit=maxlen, delta=1)
         positions = self.pos_emb(positions)
@@ -156,7 +157,8 @@ class Transformer(keras.Model):
         self.target_maxlen = target_maxlen
         self.num_classes = num_classes
 
-        self.enc_input = SpeechFeatureEmbedding(num_hid=num_hid, maxlen=source_maxlen)
+        self.enc_input = SpeechFeatureEmbedding(num_hid=num_hid, maxlen=source_maxlen)      
+        
         self.dec_input = TokenEmbedding(
             num_vocab=num_classes, maxlen=target_maxlen, num_hid=num_hid
         )
@@ -247,7 +249,7 @@ class Transformer(keras.Model):
 Note: This requires ~3.6 GB of disk space and
 takes ~5 minutes for the extraction of files.
 """
-print("Bat dau get file")
+
 # keras.utils.get_file(
 #     os.path.join(os.getcwd(), "data.tar.gz"),
 #     "https://data.keithito.com/data/speech/LJSpeech-1.1.tar.bz2",
@@ -257,14 +259,14 @@ print("Bat dau get file")
 # )
 
 
-saveto = "./datasets_eng"
+saveto = "./dataspeechtotext"
 wavs = glob("{}/**/*.wav".format(saveto), recursive=True)
 
 id_to_text = {}
-with open(os.path.join(saveto, "metadata.csv"), encoding="utf-8") as f:
+with open(os.path.join(saveto, "transcriptOnset.txt"), encoding="utf-8") as f:
     for line in f:
         id = line.strip().split("|")[0]
-        text = line.strip().split("|")[2]
+        text = line.strip().split("|")[1]
         id_to_text[id] = text
 
 
@@ -272,7 +274,7 @@ def get_data(wavs, id_to_text, maxlen=50):
     """ returns mapping of audio paths and transcription texts """
     data = []
     for w in wavs:
-        id = w.replace("\\", "/").split("/")[-1].split(".")[0]
+        id = w.replace("\\", "/").split("/")[-1]
         if len(id_to_text[id]) < maxlen:
             data.append({"audio": w, "text": id_to_text[id]})
     return data
@@ -281,15 +283,25 @@ def get_data(wavs, id_to_text, maxlen=50):
 """
 ## Preprocess the dataset
 """
+INTAB = "aAàÀảẢãÃáÁạẠăĂằẰẳẲẵẴắẮặẶâÂầẦẩẨẫẪấẤậẬbBcCdDđĐeEèÈẻẺẽẼéÉẹẸêÊềỀểỂễỄếẾệỆfFgGhHiIìÌỉỈĩĨíÍịỊjJkKlLmMnNoOòÒỏỎõÕóÓọỌôÔồỒổỔỗỖốỐộỘơƠờỜởỞỡỠớỚợỢpPqQrRsStTuUùÙủỦũŨúÚụỤưƯừỪửỬữỮứỨựỰvVwWxXyYỳỲỷỶỹỸýÝỵỴzZ"
+# INTAB = [ch.encode('utf8') for ch in sys.unicode(INTAB, 'utf8')]
 
 
 class VectorizeChar:
     def __init__(self, max_len=50):
+        # self.vocab = (
+        #     ["-", "#", "<", ">"]
+        #     + [chr(i) for i in range(sys.maxunicode) if chr(i).isupper()]
+        #     + [" ", ".", ",", "?"]
+        # )
         self.vocab = (
             ["-", "#", "<", ">"]
-            + [chr(i + 96) for i in range(1, 27)]
+            + [ch for ch in INTAB]
             + [" ", ".", ",", "?"]
         )
+        
+        print(self.vocab)
+        print(len(self.vocab))
         self.max_len = max_len
         self.char_to_idx = {}
         for i, ch in enumerate(self.vocab):
@@ -298,33 +310,32 @@ class VectorizeChar:
     def __call__(self, text):
         text = text.lower()
         text = text[: self.max_len - 2]
-        text = "<" + text + ">"
+        text = "<" + text + ">"       
         pad_len = self.max_len - len(text)
         return [self.char_to_idx.get(ch, 1) for ch in text] + [0] * pad_len
 
     def get_vocabulary(self):
-        print(self.vocab)
         print(len(self.vocab))       
         return self.vocab
+
 
 
 max_target_len = 200  # all transcripts in out data are < 200 characters
 data = get_data(wavs, id_to_text, max_target_len)
 vectorizer = VectorizeChar(max_target_len)
-
 def create_text_ds(data):
-    texts = [_["text"] for _ in data]
+    texts = [_["text"] for _ in data]   
     text_ds = [vectorizer(t) for t in texts]
-    text_ds = tf.data.Dataset.from_tensor_slices(text_ds)
+    # text_ds_vie = [ViTokenizer.tokenize(t) for t in texts]
+    # text_ds = [vectorizer(t) for t in text_ds]    
+    text_ds = tf.data.Dataset.from_tensor_slices(text_ds)   
     return text_ds
 
 
 def path_to_audio(path):
     # spectrogram using stft
-    audio = tf.io.read_file(path)
-    print("AAAAAAAAAA")
-    audio, _ = tf.audio.decode_wav(audio, 1)
-    
+    audio = tf.io.read_file(path)   
+    audio, _ = tf.audio.decode_wav(audio, 1)    
     audio = tf.squeeze(audio, axis=-1)
     stfts = tf.signal.stft(audio, frame_length=200, frame_step=80, fft_length=256)
     x = tf.math.pow(tf.abs(stfts), 0.5)
@@ -336,36 +347,44 @@ def path_to_audio(path):
     # padding to 10 seconds
     pad_len = 2754
     paddings = tf.constant([[0, pad_len], [0, 0]])
-    x = tf.pad(x, paddings, "CONSTANT")[:pad_len, :]
-    print ("BBBBBBBBBB")
+    x = tf.pad(x, paddings, "CONSTANT")[:pad_len, :]    
     return x
 
 
 def create_audio_ds(data):
     flist = [_["audio"] for _ in data]
+  
     audio_ds = tf.data.Dataset.from_tensor_slices(flist)
-    print (f"audiods: {audio_ds} ")
+    # for x in audio_ds:
+    #     print(x)
     audio_ds = audio_ds.map(path_to_audio, num_parallel_calls=tf.data.AUTOTUNE)
+    audio_ds = audio_ds.map(lambda x: tf.where(tf.math.is_nan(x), 0., x))
+    for x in audio_ds:
+        print (x) 
+   
     return audio_ds
 
 
 def create_tf_dataset(data, bs=4):
     audio_ds = create_audio_ds(data)
+    
     text_ds = create_text_ds(data)
+    
     ds = tf.data.Dataset.zip((audio_ds, text_ds))
     ds = ds.map(lambda x, y: {"source": x, "target": y})
     ds = ds.batch(bs)
-    ds = ds.prefetch(tf.data.AUTOTUNE)
+    ds = ds.prefetch(tf.data.AUTOTUNE)    
     return ds
 
 
 split = int(len(data) * 0.99)
 train_data = data[:split]
 test_data = data[split:]
+
 ds = create_tf_dataset(train_data, bs=64)
+
 val_ds = create_tf_dataset(test_data, bs=4)
-print(ds)
-print(val_ds)
+
 """
 ## Callbacks to display predictions
 """
@@ -395,12 +414,8 @@ class DisplayOutputs(keras.callbacks.Callback):
         target = self.batch["target"].numpy()
         bs = tf.shape(source)[0]
         preds = self.model.generate(source, self.target_start_token_idx)
-        print (self.target_start_token_idx)
-        print(source)
-        print(self.target_end_token_idx)
-        print(preds)
         preds = preds.numpy()
-        print(preds)
+       
         for i in range(bs):
             target_text = "".join([self.idx_to_char[_] for _ in target[i, :]])
             prediction = ""
@@ -463,7 +478,8 @@ batch = next(iter(val_ds))
 
 # The vocabulary to convert predicted indices into characters
 idx_to_char = vectorizer.get_vocabulary()
-print(idx_to_char)
+
+
 display_cb = DisplayOutputs(
     batch, idx_to_char, target_start_token_idx=2, target_end_token_idx=3
 )  # set the arguments as per vocabulary index for '<' and '>'
@@ -475,7 +491,7 @@ model = Transformer(
     target_maxlen=max_target_len,
     num_layers_enc=4,
     num_layers_dec=1,
-    num_classes=34,
+    num_classes=194,
 )
 loss_fn = tf.keras.losses.CategoricalCrossentropy(
     from_logits=True,
@@ -495,6 +511,7 @@ optimizer = keras.optimizers.Adam(learning_rate)
 model.compile(optimizer=optimizer, loss=loss_fn)
 
 history = model.fit(ds, validation_data=val_ds, callbacks=[display_cb], epochs=10)
+
 # model.saveweights('models/speech.h5')
 # model.predict()
 # print ("Hello")
